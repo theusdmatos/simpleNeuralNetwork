@@ -1,8 +1,8 @@
 # How to use
 
-$ git clone https://github.com/theusdmatos/simpleNeuralNetwork 
-$ cd simpleNeuralNetwork
-$ cp neuralNetwork.ipynb /home/$USER/$FOLDER
+<p>$ git clone https://github.com/theusdmatos/simpleNeuralNetwork </p>
+<p>$ cd simpleNeuralNetwork </p>
+<p>$ cp neuralNetwork.ipynb /home/$USER/$DIRECTORY/$... </p>
 
 # Install pip 
 
