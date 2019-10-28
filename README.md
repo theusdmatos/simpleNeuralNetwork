@@ -28,6 +28,14 @@ On macOS and Linux:
 On Windows:
 <p> $ py -m venv env </p>
 
+# Activating a Virtual Environment
+
+On macOS and Linux:
+<p> $ source env/bin/activate </p>
+
+On Windows:
+<p> $ .\env\Scripts\activate </p>
+
 # Inside the Virtual Environment, install the libraries:
 
 <p> $ pip install numpy </p>
