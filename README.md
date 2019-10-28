@@ -26,7 +26,7 @@ On macOS and Linux:
 <p> $ python3 -m venv env </p>
 
 On Windows:
-<p> $ py -m venv env ,/p>
+<p> $ py -m venv env </p>
 
 # Inside the Virtual Environment, install the libraries:
 
