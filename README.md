@@ -5,7 +5,7 @@
 <p>$ cp neuralNetwork.ipynb /home/$USER/$DIRECTORY/$... </p>
 
 # Install pip 
-
+#
 On Linux and macOS
 <p> $ python3 -m pip install --user --upgrade pip </p>
 
