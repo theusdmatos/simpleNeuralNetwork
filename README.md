@@ -1,5 +1,9 @@
 # How to use
 
+$ git clone https://github.com/theusdmatos/simpleNeuralNetwork 
+$ cd simpleNeuralNetwork
+$ cp neuralNetwork.ipynb /home/$USER/$FOLDER
+
 # Install pip 
 
 On Linux and macOS
@@ -29,3 +33,4 @@ On Windows:
 <p> $ pip install numpy </p>
 <p> $ pip install matplotlib </p>
 
+# After all the process with active Jupyter Notebook, you need open the file "neuralNetwork.ipynb" which is in your preferred directory!
