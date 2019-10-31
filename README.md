@@ -7,11 +7,11 @@
 # Install pip 
 
 On Linux and macOS
-<p> python-pip </p>
+<p> $ python-pip </p>
 <p> $ python3 -m pip install --user --upgrade pip </p>
 
 On Windows:
-<p> python get-pip.py </p>
+<p> $ python get-pip.py </p>
 <p> $ py -m pip install --upgrade pip </p>
 
 # Install a Virtual Environment
