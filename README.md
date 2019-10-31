@@ -39,8 +39,11 @@ On Windows:
 <p> $ .\env\Scripts\activate </p>
 
 # Inside the Virtual Environment, install the libraries:
-
+<p> $ pip install jupyter </p>
 <p> $ pip install numpy </p>
 <p> $ pip install matplotlib </p>
 
+# Start Jupyter Notebook
+<p> (env) [$USER@COMPUTER] $ jupyter-notebook </p>
+  
 # After all the process with active Jupyter Notebook, you need open the file "neuralNetwork.ipynb" which is in your preferred directory!
